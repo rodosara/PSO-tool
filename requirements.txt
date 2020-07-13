@@ -1,0 +1,4 @@
+numpy # Basic array library
+scipy # Scientific library
+tqdm # Progress bar library
+pyswarm # Best actual Python library about PSO

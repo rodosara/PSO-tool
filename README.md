@@ -1,4 +1,4 @@
-PSO-tool
+# PSO-tool
 
 
 This is a personal project develop for academic purpose.
@@ -12,3 +12,17 @@ It's sufficient insert your function (as specified in the paper) in the benchmar
 
 With spirit of sharing and hoping that it may be of help to someone else,
 Good luck!
+
+### QUICK START
+Python 3.7+ is required.
+Then install the Python dependencies:
+  ```bash
+  pip3 install -r requiremets.txt
+  ```
+
+##### Usage
+Lunch the script and choose the configuration to use (in the parenthesis the values allowed):
+1. Choose the number of the algorithms to use [integer]
+2. Decide to use or not an opposite population [1 for use or 0 to not]
+3. Set the number of runs to do [integer]
+4. Set the benchmark function to minimize in the syntax [g+(number of paper)+_+(number of function)] (eg. g2_4)
