@@ -17,7 +17,7 @@ Good luck!
 Python 3.7+ is required.
 Then install the Python dependencies:
   ```bash
-  pip3 install -r requiremets.txt
+  pip3 install -r requirements.txt
   ```
 
 ##### Usage
